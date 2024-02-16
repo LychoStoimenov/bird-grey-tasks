@@ -42,7 +42,7 @@
         "title_font_size_mobile": 30,
         "content": "<p>Text content goes here.<\/p>",
         "btn_text": "Button Text",
-        "btn_url": "",
+        "btn_url": "#",
         "effect": "fade",
         "autoplay": false,
         "autoplay_speed": 5,
